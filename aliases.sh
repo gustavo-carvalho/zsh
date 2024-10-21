@@ -1,6 +1,6 @@
 #git
 alias gs="git status"
-alias gu="git reset HEAD~" # undo last local commit
+alias gu="git reset --soft HEAD~1" # undo last local commit
 alias gcm=gcam
 alias gp="git push"
 

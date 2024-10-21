@@ -1,7 +1,7 @@
 # Example .zshrc file
 
 ```
-for FILE in ~/zshrc/*; do
+for FILE in ~/zsh/*.sh; do
     source $FILE
 done
 ```
